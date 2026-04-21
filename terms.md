@@ -56,4 +56,4 @@ and note the changes in an app update.
 
 ## Contact
 
-Questions? Email: [your email here]
+Questions? Email: Cairn_Support@proton.me
