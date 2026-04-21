@@ -99,4 +99,4 @@ updated" date and note the changes in an app update.
 
 ## Contact
 
-Questions about this policy? Email: [your email here]
+Questions about this policy? Email: Cairn_Support@proton.me
